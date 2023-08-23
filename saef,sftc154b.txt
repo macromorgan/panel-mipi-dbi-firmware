@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: GPL-2.0
 command 0x01 # soft reset
 delay 5
 command 0x11 # exit sleep
